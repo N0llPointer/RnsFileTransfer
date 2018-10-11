@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:gravity="start"
+        android:paddingEnd="15dp"
+        android:id="@+id/info_card_section_name"
+        android:text="Name"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:padding="5dp"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|center_vertical"
+        android:gravity="end"
+        android:id="@+id/info_card_section_description"
+        android:text="Description"
+        android:padding="5dp"/>
+
+</LinearLayout>

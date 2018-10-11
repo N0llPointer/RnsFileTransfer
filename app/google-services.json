@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366149009680",
+    "firebase_url": "https://rnsfiletransfer.firebaseio.com",
+    "project_id": "rnsfiletransfer",
+    "storage_bucket": "rnsfiletransfer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366149009680:android:e94ac7db053b3c68",
+        "android_client_info": {
+          "package_name": "com.nollpointer.rnsfiletransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366149009680-9nofa2j6oof2h17mlsd6d29muv7q8tgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nollpointer.rnsfiletransfer",
+            "certificate_hash": "25cb3939d7649c2730f6aaa4a044b5bcdf8d81ad"
+          }
+        },
+        {
+          "client_id": "366149009680-7ioibi85mftaa0i6ik97tbnpoj0a0peb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_FziJeRTpWaPH9fDsjPdqoVA7vlYKWls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366149009680-7ioibi85mftaa0i6ik97tbnpoj0a0peb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

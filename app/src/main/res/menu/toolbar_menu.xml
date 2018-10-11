@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/decode_button"
+        android:title="Random"
+        android:icon="@drawable/ic_refresh"
+        android:orderInCategory="3"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/info_button"
+        android:title="Инофрмация"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/foundations_button"
+        android:title="Основания"
+        android:icon="@drawable/ic_foundations"
+        android:orderInCategory="4"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/camera_button"
+        android:title="Камера"
+        android:icon="@drawable/ic_camera"
+        android:orderInCategory="2"
+        app:showAsAction="always"
+        />
+
+</menu>
